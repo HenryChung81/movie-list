@@ -1,0 +1,7 @@
+.fa {
+  cursor: pointer;
+}
+
+.fa:hover {
+  color: gray;
+}
